@@ -6,7 +6,7 @@ toDoList : [![Build Status](https://travis-ci.org/eRqa/job4j_toDoList.svg?branch
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eRqa&hide=stars,prs,issues,contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eRqal&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eRqa&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 
 https://img.shields.io/badge/Java-%3E%3D8-orange
 
