@@ -2,9 +2,9 @@
 
 Buid statuses:
 
-#toDoList : [![Build Status](https://travis-ci.org/eRqa/job4j_toDoList.svg?branch=master)](https://travis-ci.org/eRqa/job4j_toDoList)
+# toDoList : [![Build Status](https://travis-ci.org/eRqa/job4j_toDoList.svg?branch=master)](https://travis-ci.org/eRqa/job4j_toDoList)
 
-#carAccidents : [![Build Status](https://travis-ci.com/eRqa/job4j_car_accident.svg?branch=main)](https://travis-ci.com/eRqa/job4j_car_accident)
+# carAccidents : [![Build Status](https://travis-ci.com/eRqa/job4j_car_accident.svg?branch=main)](https://travis-ci.com/eRqa/job4j_car_accident)
 
 
 <!--
