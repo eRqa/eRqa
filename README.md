@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-toDoList build status : [![Build Status](https://travis-ci.org/eRqa/job4j_toDoList.svg?branch=master)](https://travis-ci.org/eRqa/job4j_toDoList)
+Buid statuses:
+
+#toDoList : [![Build Status](https://travis-ci.org/eRqa/job4j_toDoList.svg?branch=master)](https://travis-ci.org/eRqa/job4j_toDoList)
+
+#carAccidents : [![Build Status](https://travis-ci.com/eRqa/job4j_car_accident.svg?branch=main)](https://travis-ci.com/eRqa/job4j_car_accident)
+
 
 <!--
 **eRqa/eRqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
