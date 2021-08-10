@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Pavel 👋
+
+Java devevoper from Saint-P.
 
 # Technologies that I use
 
@@ -10,10 +12,6 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/054130fd061a76727e34edc657039b84da03dcc1e0155cc943c2becc11a00e0c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d253345253344253230392d626c7565"><img src="https://camo.githubusercontent.com/054130fd061a76727e34edc657039b84da03dcc1e0155cc943c2becc11a00e0c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d253345253344253230392d626c7565" alt="PostgreSQL" data-canonical-src="https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3d81e0bd1de3f21ab2ffffb9abfd0165286edfbeec2e969f1c61d45d5c320cfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472617669732d43492d737563636573"><img src="https://camo.githubusercontent.com/3d81e0bd1de3f21ab2ffffb9abfd0165286edfbeec2e969f1c61d45d5c320cfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472617669732d43492d737563636573" alt="Travis" data-canonical-src="https://img.shields.io/badge/Travis-CI-succes" style="max-width:100%;"></a></p>
 </blockquote>
-
-# Buid statuses:
-
-# toDoList : [![Build Status](https://travis-ci.org/eRqa/job4j_toDoList.svg?branch=master)](https://travis-ci.org/eRqa/job4j_toDoList) carAccidents : [![Build Status](https://travis-ci.com/eRqa/job4j_car_accident.svg?branch=main)](https://travis-ci.com/eRqa/job4j_car_accident) forum : [![Build Status](https://travis-ci.com/eRqa/job4j_forum.svg?branch=master)](https://travis-ci.com/eRqa/job4j_forum)
 
 
 <!--
