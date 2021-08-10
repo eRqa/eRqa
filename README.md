@@ -1,6 +1,6 @@
 ### Hi there, I am Pavel 👋
 
-Java devevoper from Saint-P.
+Java developer from Saint-P.
 
 # Technologies that I use
 
