@@ -6,6 +6,8 @@ Buid statuses:
 
 # carAccidents : [![Build Status](https://travis-ci.com/eRqa/job4j_car_accident.svg?branch=main)](https://travis-ci.com/eRqa/job4j_car_accident)
 
+# forum : [![Build Status](https://travis-ci.com/eRqa/job4j_forum.svg?branch=master)](https://travis-ci.com/eRqa/job4j_forum)
+
 
 <!--
 **eRqa/eRqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
